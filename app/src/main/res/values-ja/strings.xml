@@ -41,8 +41,8 @@
   <string name="autoupdate_enabled">自動でのアップデート確認は有効です</string>
   <string name="autoupdate_disabled">自動でのアップデート確認は無効です</string>
   <!-- Notification -->
-  <string name="notification_title">ROM アップデート</string>
+  <string name="notification_title">mordiford-RR アップデート</string>
   <string name="notification_message">新しいアップデートが利用可能です！</string>
   <!-- Dialog -->
-  <string name="dialog_message">ROMの更新を確認中...</string>
+  <string name="dialog_message">mordiford-RRの更新を確認中...</string>
 </resources>
